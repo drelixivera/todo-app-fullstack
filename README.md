@@ -20,7 +20,7 @@ A production-ready Task Management application built to demonstrate mastery of t
     └── /Todo-app-frontend # Client-side React application
 
 ⚙️ How to Run Locally
-1. Clone the Repo: git clone [https://github.com/Drelix-Ivera/todo-app-fullstack.git](https://github.com/Drelix-Ivera/todo-app-fullstack.git)
+1. Clone the Repo: git clone [https://github.com/Drelix-Ivera/todo-app-fullstack.git](https://github.com/drelixivera/todo-app-fullstack.git)
 2. Server Setup: Navigate to /todo-app-backend, run npm install, and configure your .env
 3. Client Setup: Navigate to /Todo-app-frontend and run npm install.
 4. Launch: Start the backend with npm start and the frontend with npm run dev. 
